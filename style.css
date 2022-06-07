@@ -1,0 +1,23 @@
+.center {
+	margin: auto;
+	width: 75%;
+}
+.centerT {
+	text-align: center;
+}
+
+body {
+	background-color: rgba(128,128,128,1);
+}
+div {
+	background-color: rgba(255,255,255,1);
+	height: 1080px;
+}
+h1 {
+	background-color: rgba(0,80,255,1);
+	font-family: Helvetica, sans-serif;
+	height: 50px;
+}
+p {
+	font-family: Helvetica, sans-serif;
+}
